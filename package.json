@@ -7,7 +7,7 @@
         "vscode": "^1.56.0"
     },
     "categories": [
-        "Extension Packs"
+        "octref.vetur"
     ],
     "extensionPack": [ 
         "publisher.extensionName"
